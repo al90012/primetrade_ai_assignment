@@ -517,7 +517,7 @@ MIT
 
 ## 👥 Contributors
 
-- Your Name
+- Sayyad Mohd Imdad
 
 ## 📞 Support
 
